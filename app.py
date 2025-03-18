@@ -8,10 +8,6 @@ import json
 with open("random_forest_best.pkl", "rb") as file:
     model = pickle.load(file)
 
-# Check the expected number of features
-n_features = model.n_features_in_
-st.write(f"Model expects {n_features} features.")
-
 # Load preprocessed data (latitude, longitude, town_avg_price, price_per_sqft)
 with open("preprocessed_data_updated.json", "r") as file:
     preprocessed_data = json.load(file)
@@ -64,13 +60,6 @@ latitude = town_data["latitude"].mean()
 longitude = town_data["longitude"].mean()
 town_avg_price = town_data["town_avg_price"].mean()
 
-# Display retrieved data
-# st.write(f"Retrieved Data for {selected_town} ({flat_type}):")
-# st.write(f"- Latitude: {latitude}")
-# st.write(f"- Longitude: {longitude}")
-# st.write(f"- Town Average Price: {town_avg_price}")
-# st.write(f"- Price per Sqft: {price_per_sqft}")
-
 # Feature engineering
 floor_area_squared = floor_area_sqm ** 2
 log_price_per_sqft = np.log(price_per_sqft + 1)
@@ -94,30 +83,21 @@ input_features = np.array([[
     remaining_lease_years, floor_area_sqm, price_per_sqft, 
     mrt_distance * 1000, cbd_distance * 1000, pri_distance * 1000,
     latitude, longitude, storey_mid, area_per_year, town_avg_price, 
-    floor_area_squared,log_price_per_sqft
+    floor_area_squared, log_price_per_sqft
 ]])
 
-# Ensure the model receives the correct number of features
-if input_features.shape[1] != n_features:
-    st.error(f"Mismatch in column count. Expected {n_features} columns, but got {input_features.shape[1]} columns.")
-else:
-    if st.button("Predict"):
-        prediction = model.predict(input_features)[0]
-        
-        # Adjust prediction if below town average price
-        # if prediction < town_avg_price:
-        #     prediction = (prediction + town_avg_price) / 2  # Move closer to town average
-        
-        st.success(f"Predicted Resale Price: SGD {prediction:,.2f}")
+# Predict using the model
+if st.button("Predict"):
+    prediction = model.predict(input_features)[0]
+    st.success(f"Predicted Resale Price: SGD {prediction:,.2f}")
 
-    # Show features passed to the model
-    st.write("Features being passed to the model:")
-    feature_names = [
-        "remaining_lease_years", "floor_area_sqm", "price_per_sqft", 
-        "distance_to_mrt_meters", "distance_to_cbd", "distance_to_pri_school_meters", 
-        "latitude", "longitude", "storey_mid", "area_per_year", "town_avg_price", 
-        "floor_area_squared","log_price_per_sqft"
-    ]
-    
-    st.write(pd.DataFrame(input_features, columns=feature_names))
+# Show features passed to the model
+st.write("Features being passed to the model:")
+feature_names = [
+    "remaining_lease_years", "floor_area_sqm", "price_per_sqft", 
+    "distance_to_mrt_meters", "distance_to_cbd", "distance_to_pri_school_meters", 
+    "latitude", "longitude", "storey_mid", "area_per_year", "town_avg_price", 
+    "floor_area_squared", "log_price_per_sqft"
+]
 
+st.write(pd.DataFrame(input_features, columns=feature_names))
