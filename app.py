@@ -22,7 +22,7 @@ df_preprocessed = pd.DataFrame(preprocessed_data)
 towns = df_preprocessed["town"].unique().tolist()
 
 # Flat type, storey range, etc.
-flat_types = ["1-Room", "2-Room", "3-Room", "4-Room", "5-Room", "Executive"]
+flat_types = ["2-Room", "3-Room", "4-Room", "5-Room", "Executive"]
 storey_ranges = ["01-03", "04-06", "07-09", "10-12", "13-15", "16-18", "19-21", "22-24", "25-27", "28-30", 
                  "31-33", "34-36", "37-39", "40-42", "43-45", "46-48", "49-51"]
 
@@ -42,7 +42,7 @@ pri_distance = st.number_input("Distance to Nearest Primary School (km)", min_va
 
 # Mapping user input flat type to match dataset values
 flat_type_mapping = {
-    "1-Room": "1 ROOM", "2-Room": "2 ROOM", "3-Room": "3 ROOM",
+    "2-Room": "2 ROOM", "3-Room": "3 ROOM",
     "4-Room": "4 ROOM", "5-Room": "5 ROOM", "Executive": "EXECUTIVE"
 }
 flat_type_encoded = flat_type_mapping[flat_type]
@@ -65,11 +65,11 @@ longitude = town_data["longitude"].mean()
 town_avg_price = town_data["town_avg_price"].mean()
 
 # Display retrieved data
-st.write(f"Retrieved Data for {selected_town} ({flat_type}):")
-st.write(f"- Latitude: {latitude}")
-st.write(f"- Longitude: {longitude}")
-st.write(f"- Town Average Price: {town_avg_price}")
-st.write(f"- Price per Sqft: {price_per_sqft}")
+# st.write(f"Retrieved Data for {selected_town} ({flat_type}):")
+# st.write(f"- Latitude: {latitude}")
+# st.write(f"- Longitude: {longitude}")
+# st.write(f"- Town Average Price: {town_avg_price}")
+# st.write(f"- Price per Sqft: {price_per_sqft}")
 
 # Feature engineering
 floor_area_squared = floor_area_sqm ** 2
@@ -99,7 +99,7 @@ input_features = np.array([[
 
 # Ensure the model receives the correct number of features
 if input_features.shape[1] != n_features:
-    st.error(f"⚠️ Mismatch in column count. Expected {n_features} columns, but got {input_features.shape[1]} columns.")
+    st.error(f"Mismatch in column count. Expected {n_features} columns, but got {input_features.shape[1]} columns.")
 else:
     if st.button("Predict"):
         prediction = model.predict(input_features)[0]
@@ -108,10 +108,10 @@ else:
         # if prediction < town_avg_price:
         #     prediction = (prediction + town_avg_price) / 2  # Move closer to town average
         
-        st.success(f"🏡 Predicted Resale Price: SGD {prediction:,.2f}")
+        st.success(f"Predicted Resale Price: SGD {prediction:,.2f}")
 
     # Show features passed to the model
-    st.write("📊 Features being passed to the model:")
+    st.write("Features being passed to the model:")
     feature_names = [
         "remaining_lease_years", "floor_area_sqm", "price_per_sqft", 
         "distance_to_mrt_meters", "distance_to_cbd", "distance_to_pri_school_meters", 
