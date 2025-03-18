@@ -25,3 +25,7 @@ After downloading, please place the files in the appropriate directories:
 1. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+
+2. Run the Streamlit app using the following command:
+   ```bash
+   python -m streamlit run app.py
