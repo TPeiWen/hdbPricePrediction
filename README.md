@@ -46,3 +46,10 @@ You can install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+
+### Dataset and Trained Models
+
+The dataset `hdb_resale_flat_transactions_2020-2025.csv` and 3 trained models are too large to upload directly to GitHub. You can download it from the following link:
+
+[Download](https://tinyurl.com/2p9stcy9)
+
