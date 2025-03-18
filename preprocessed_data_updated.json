@@ -1,0 +1,1050 @@
+[
+    {
+        "town":"ANG MO KIO",
+        "flat_type":"2 ROOM",
+        "town_avg_price":269897.52,
+        "price_per_sqft":565.602930042,
+        "latitude":1.37334635,
+        "longitude":103.8364593
+    },
+    {
+        "town":"ANG MO KIO",
+        "flat_type":"3 ROOM",
+        "town_avg_price":370961.6176575294,
+        "price_per_sqft":487.2054854085,
+        "latitude":1.365444952,
+        "longitude":103.842715
+    },
+    {
+        "town":"ANG MO KIO",
+        "flat_type":"4 ROOM",
+        "town_avg_price":575361.3485607009,
+        "price_per_sqft":575.220507296,
+        "latitude":1.365820895,
+        "longitude":103.8428478
+    },
+    {
+        "town":"ANG MO KIO",
+        "flat_type":"5 ROOM",
+        "town_avg_price":763392.5055396619,
+        "price_per_sqft":600.6857446347,
+        "latitude":1.366291979,
+        "longitude":103.8534963
+    },
+    {
+        "town":"ANG MO KIO",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":957981.4285714285,
+        "price_per_sqft":575.1864879429,
+        "latitude":1.371402396,
+        "longitude":103.8548458
+    },
+    {
+        "town":"BEDOK",
+        "flat_type":"2 ROOM",
+        "town_avg_price":269936.3258426966,
+        "price_per_sqft":554.0500255,
+        "latitude":1.334334322,
+        "longitude":103.9177126
+    },
+    {
+        "town":"BEDOK",
+        "flat_type":"3 ROOM",
+        "town_avg_price":354519.2446321718,
+        "price_per_sqft":484.5351833395,
+        "latitude":1.32842001,
+        "longitude":103.9274827
+    },
+    {
+        "town":"BEDOK",
+        "flat_type":"4 ROOM",
+        "town_avg_price":523100.8735494197,
+        "price_per_sqft":524.2530182757,
+        "latitude":1.332980717,
+        "longitude":103.932599
+    },
+    {
+        "town":"BEDOK",
+        "flat_type":"5 ROOM",
+        "town_avg_price":667357.6346586647,
+        "price_per_sqft":517.1837246988,
+        "latitude":1.329649995,
+        "longitude":103.9302606
+    },
+    {
+        "town":"BEDOK",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":840631.2219101123,
+        "price_per_sqft":533.8854024056,
+        "latitude":1.333614296,
+        "longitude":103.9426283
+    },
+    {
+        "town":"BISHAN",
+        "flat_type":"3 ROOM",
+        "town_avg_price":414126.6555555555,
+        "price_per_sqft":588.4547142489,
+        "latitude":1.347918389,
+        "longitude":103.8487501
+    },
+    {
+        "town":"BISHAN",
+        "flat_type":"4 ROOM",
+        "town_avg_price":637793.6533575318,
+        "price_per_sqft":603.6979592044,
+        "latitude":1.358478221,
+        "longitude":103.846408
+    },
+    {
+        "town":"BISHAN",
+        "flat_type":"5 ROOM",
+        "town_avg_price":861050.6593103448,
+        "price_per_sqft":651.4334016376,
+        "latitude":1.345512491,
+        "longitude":103.8483142
+    },
+    {
+        "town":"BISHAN",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":1035547.7032520325,
+        "price_per_sqft":635.6155865175,
+        "latitude":1.345411048,
+        "longitude":103.8520798
+    },
+    {
+        "town":"BISHAN",
+        "flat_type":"MULTI-GENERATION",
+        "town_avg_price":913714.2857142857,
+        "price_per_sqft":567.8900027429,
+        "latitude":1.344233608,
+        "longitude":103.8547636
+    },
+    {
+        "town":"BUKIT BATOK",
+        "flat_type":"2 ROOM",
+        "town_avg_price":347815.8172588833,
+        "price_per_sqft":723.8902711609,
+        "latitude":1.351074378,
+        "longitude":103.7387554
+    },
+    {
+        "town":"BUKIT BATOK",
+        "flat_type":"3 ROOM",
+        "town_avg_price":368619.5267515923,
+        "price_per_sqft":501.8039514303,
+        "latitude":1.348136253,
+        "longitude":103.7583142
+    },
+    {
+        "town":"BUKIT BATOK",
+        "flat_type":"4 ROOM",
+        "town_avg_price":539531.8275723472,
+        "price_per_sqft":529.6775976967,
+        "latitude":1.35127412,
+        "longitude":103.7588715
+    },
+    {
+        "town":"BUKIT BATOK",
+        "flat_type":"5 ROOM",
+        "town_avg_price":704314.7798422091,
+        "price_per_sqft":556.2523327373,
+        "latitude":1.351381128,
+        "longitude":103.7485853
+    },
+    {
+        "town":"BUKIT BATOK",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":750071.100456621,
+        "price_per_sqft":473.2435059539,
+        "latitude":1.352043477,
+        "longitude":103.7469523
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"1 ROOM",
+        "town_avg_price":221040.170212766,
+        "price_per_sqft":662.4297950851,
+        "latitude":1.278361373,
+        "longitude":103.819384
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"2 ROOM",
+        "town_avg_price":300942.9019607843,
+        "price_per_sqft":611.4713467804,
+        "latitude":1.28728822,
+        "longitude":103.831873
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"3 ROOM",
+        "town_avg_price":448605.9051633987,
+        "price_per_sqft":621.4598122169,
+        "latitude":1.286358471,
+        "longitude":103.8296262
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"4 ROOM",
+        "town_avg_price":760618.1623716991,
+        "price_per_sqft":762.6181811869,
+        "latitude":1.286358471,
+        "longitude":103.8296262
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"5 ROOM",
+        "town_avg_price":868508.7701465201,
+        "price_per_sqft":686.2976668501,
+        "latitude":1.286827152,
+        "longitude":103.8286595
+    },
+    {
+        "town":"BUKIT MERAH",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":785666.6666666666,
+        "price_per_sqft":455.0350258333,
+        "latitude":1.277145597,
+        "longitude":103.8287389
+    },
+    {
+        "town":"BUKIT PANJANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":284336.431372549,
+        "price_per_sqft":565.0206992412,
+        "latitude":1.388538273,
+        "longitude":103.7687733
+    },
+    {
+        "town":"BUKIT PANJANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":367130.2337042925,
+        "price_per_sqft":487.9603021502,
+        "latitude":1.380655025,
+        "longitude":103.7736987
+    },
+    {
+        "town":"BUKIT PANJANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":477267.8687228497,
+        "price_per_sqft":466.2659452735,
+        "latitude":1.377573173,
+        "longitude":103.7744621
+    },
+    {
+        "town":"BUKIT PANJANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":597418.4079885877,
+        "price_per_sqft":479.1381790556,
+        "latitude":1.384528397,
+        "longitude":103.7724317
+    },
+    {
+        "town":"BUKIT PANJANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":728007.6449792531,
+        "price_per_sqft":487.2389869921,
+        "latitude":1.377573211,
+        "longitude":103.7753528
+    },
+    {
+        "town":"BUKIT TIMAH",
+        "flat_type":"3 ROOM",
+        "town_avg_price":441618.3606557377,
+        "price_per_sqft":580.6393737803,
+        "latitude":1.318333372,
+        "longitude":103.8080972
+    },
+    {
+        "town":"BUKIT TIMAH",
+        "flat_type":"4 ROOM",
+        "town_avg_price":678767.8487394959,
+        "price_per_sqft":637.4971490084,
+        "latitude":1.318333372,
+        "longitude":103.8080972
+    },
+    {
+        "town":"BUKIT TIMAH",
+        "flat_type":"5 ROOM",
+        "town_avg_price":953740.4835294118,
+        "price_per_sqft":718.4785136176,
+        "latitude":1.31655991,
+        "longitude":103.8072881
+    },
+    {
+        "town":"BUKIT TIMAH",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":1137042.95,
+        "price_per_sqft":718.6440715633,
+        "latitude":1.337964912,
+        "longitude":103.7740157
+    },
+    {
+        "town":"CENTRAL AREA",
+        "flat_type":"2 ROOM",
+        "town_avg_price":294539.4893617021,
+        "price_per_sqft":518.4262733404,
+        "latitude":1.286973834,
+        "longitude":103.8390758
+    },
+    {
+        "town":"CENTRAL AREA",
+        "flat_type":"3 ROOM",
+        "town_avg_price":448651.3294117647,
+        "price_per_sqft":648.9289336645,
+        "latitude":1.30758124,
+        "longitude":103.8514782
+    },
+    {
+        "town":"CENTRAL AREA",
+        "flat_type":"4 ROOM",
+        "town_avg_price":863493.8377723971,
+        "price_per_sqft":874.2718211785,
+        "latitude":1.277799407,
+        "longitude":103.8414034
+    },
+    {
+        "town":"CENTRAL AREA",
+        "flat_type":"5 ROOM",
+        "town_avg_price":1083643.2990849672,
+        "price_per_sqft":932.9043576268,
+        "latitude":1.275986995,
+        "longitude":103.8411918
+    },
+    {
+        "town":"CENTRAL AREA",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":1034000.0,
+        "price_per_sqft":662.8981226,
+        "latitude":1.30702756,
+        "longitude":103.8555275
+    },
+    {
+        "town":"CHOA CHU KANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":277883.9365079365,
+        "price_per_sqft":551.7797996794,
+        "latitude":1.391339945,
+        "longitude":103.7439319
+    },
+    {
+        "town":"CHOA CHU KANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":376465.7108371041,
+        "price_per_sqft":505.2563604776,
+        "latitude":1.376520185,
+        "longitude":103.7380257
+    },
+    {
+        "town":"CHOA CHU KANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":475611.23659601,
+        "price_per_sqft":450.8737394064,
+        "latitude":1.378599847,
+        "longitude":103.7409744
+    },
+    {
+        "town":"CHOA CHU KANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":559460.9452423698,
+        "price_per_sqft":440.472771345,
+        "latitude":1.37962407,
+        "longitude":103.7455301
+    },
+    {
+        "town":"CHOA CHU KANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":680286.0133555926,
+        "price_per_sqft":436.5878911195,
+        "latitude":1.380791257,
+        "longitude":103.7492267
+    },
+    {
+        "town":"CLEMENTI",
+        "flat_type":"2 ROOM",
+        "town_avg_price":350799.0769230769,
+        "price_per_sqft":670.0123380077,
+        "latitude":1.309456122,
+        "longitude":103.7699188
+    },
+    {
+        "town":"CLEMENTI",
+        "flat_type":"3 ROOM",
+        "town_avg_price":402864.7115666179,
+        "price_per_sqft":544.3898185744,
+        "latitude":1.313991615,
+        "longitude":103.767089
+    },
+    {
+        "town":"CLEMENTI",
+        "flat_type":"4 ROOM",
+        "town_avg_price":654585.9579399142,
+        "price_per_sqft":670.8114596011,
+        "latitude":1.31004549,
+        "longitude":103.7691238
+    },
+    {
+        "town":"CLEMENTI",
+        "flat_type":"5 ROOM",
+        "town_avg_price":832101.5450121654,
+        "price_per_sqft":666.2954628083,
+        "latitude":1.311581073,
+        "longitude":103.771625
+    },
+    {
+        "town":"CLEMENTI",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":907001.2765957447,
+        "price_per_sqft":563.4264190872,
+        "latitude":1.32014419,
+        "longitude":103.7632535
+    },
+    {
+        "town":"GEYLANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":245886.1979166667,
+        "price_per_sqft":524.6292041125,
+        "latitude":1.319392918,
+        "longitude":103.8844399
+    },
+    {
+        "town":"GEYLANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":356552.3767325428,
+        "price_per_sqft":524.205362209,
+        "latitude":1.319175152,
+        "longitude":103.8853216
+    },
+    {
+        "town":"GEYLANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":636070.7259055118,
+        "price_per_sqft":630.3290386445,
+        "latitude":1.329682323,
+        "longitude":103.885408
+    },
+    {
+        "town":"GEYLANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":762168.4681933842,
+        "price_per_sqft":586.9623111153,
+        "latitude":1.323270062,
+        "longitude":103.8817522
+    },
+    {
+        "town":"GEYLANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":862210.3937007874,
+        "price_per_sqft":542.7663274858,
+        "latitude":1.316350523,
+        "longitude":103.8859388
+    },
+    {
+        "town":"HOUGANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":331718.8292682927,
+        "price_per_sqft":674.6771185065,
+        "latitude":1.379392247,
+        "longitude":103.8782839
+    },
+    {
+        "town":"HOUGANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":375835.1273209549,
+        "price_per_sqft":513.6775424333,
+        "latitude":1.379392247,
+        "longitude":103.8782839
+    },
+    {
+        "town":"HOUGANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":515569.6323973023,
+        "price_per_sqft":500.9916603128,
+        "latitude":1.379725297,
+        "longitude":103.8811333
+    },
+    {
+        "town":"HOUGANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":644958.1102464332,
+        "price_per_sqft":503.4559102785,
+        "latitude":1.366809108,
+        "longitude":103.895756
+    },
+    {
+        "town":"HOUGANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":805486.1101291248,
+        "price_per_sqft":513.7873230019,
+        "latitude":1.372858509,
+        "longitude":103.8996487
+    },
+    {
+        "town":"JURONG EAST",
+        "flat_type":"2 ROOM",
+        "town_avg_price":288204.0697674418,
+        "price_per_sqft":598.8703491535,
+        "latitude":1.348308359,
+        "longitude":103.7319199
+    },
+    {
+        "town":"JURONG EAST",
+        "flat_type":"3 ROOM",
+        "town_avg_price":356891.3210412147,
+        "price_per_sqft":473.0226424204,
+        "latitude":1.342653278,
+        "longitude":103.739977
+    },
+    {
+        "town":"JURONG EAST",
+        "flat_type":"4 ROOM",
+        "town_avg_price":469361.4650872818,
+        "price_per_sqft":455.5305792024,
+        "latitude":1.350139886,
+        "longitude":103.7299366
+    },
+    {
+        "town":"JURONG EAST",
+        "flat_type":"5 ROOM",
+        "town_avg_price":594515.3942307692,
+        "price_per_sqft":453.5941479678,
+        "latitude":1.341535833,
+        "longitude":103.737488
+    },
+    {
+        "town":"JURONG EAST",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":775594.0036764706,
+        "price_per_sqft":494.7745939401,
+        "latitude":1.349683705,
+        "longitude":103.7319057
+    },
+    {
+        "town":"JURONG WEST",
+        "flat_type":"2 ROOM",
+        "town_avg_price":297078.7901234568,
+        "price_per_sqft":592.9015878932,
+        "latitude":1.348793505,
+        "longitude":103.7084177
+    },
+    {
+        "town":"JURONG WEST",
+        "flat_type":"3 ROOM",
+        "town_avg_price":341669.9293820225,
+        "price_per_sqft":468.8076614675,
+        "latitude":1.344106102,
+        "longitude":103.7137192
+    },
+    {
+        "town":"JURONG WEST",
+        "flat_type":"4 ROOM",
+        "town_avg_price":472306.9014517175,
+        "price_per_sqft":453.9913187239,
+        "latitude":1.348617948,
+        "longitude":103.7097377
+    },
+    {
+        "town":"JURONG WEST",
+        "flat_type":"5 ROOM",
+        "town_avg_price":549327.5578574124,
+        "price_per_sqft":440.2925791169,
+        "latitude":1.348617948,
+        "longitude":103.7097377
+    },
+    {
+        "town":"JURONG WEST",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":656583.3077790304,
+        "price_per_sqft":435.8320055489,
+        "latitude":1.344623934,
+        "longitude":103.7055601
+    },
+    {
+        "town":"KALLANG\/WHAMPOA",
+        "flat_type":"2 ROOM",
+        "town_avg_price":269521.2,
+        "price_per_sqft":527.3486812327,
+        "latitude":1.302370026,
+        "longitude":103.8835964
+    },
+    {
+        "town":"KALLANG\/WHAMPOA",
+        "flat_type":"3 ROOM",
+        "town_avg_price":422902.9162770083,
+        "price_per_sqft":578.5994726519,
+        "latitude":1.303671351,
+        "longitude":103.8644787
+    },
+    {
+        "town":"KALLANG\/WHAMPOA",
+        "flat_type":"4 ROOM",
+        "town_avg_price":734944.7816069222,
+        "price_per_sqft":735.6084818573,
+        "latitude":1.30368952,
+        "longitude":103.8635755
+    },
+    {
+        "town":"KALLANG\/WHAMPOA",
+        "flat_type":"5 ROOM",
+        "town_avg_price":820826.1150855365,
+        "price_per_sqft":650.2577080899,
+        "latitude":1.305104174,
+        "longitude":103.8608694
+    },
+    {
+        "town":"KALLANG\/WHAMPOA",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":913041.1034482758,
+        "price_per_sqft":574.9918966287,
+        "latitude":1.322906233,
+        "longitude":103.8660289
+    },
+    {
+        "town":"MARINE PARADE",
+        "flat_type":"2 ROOM",
+        "town_avg_price":264000.0,
+        "price_per_sqft":580.72172396,
+        "latitude":1.304884331,
+        "longitude":103.91394
+    },
+    {
+        "town":"MARINE PARADE",
+        "flat_type":"3 ROOM",
+        "town_avg_price":416013.2301980198,
+        "price_per_sqft":567.0388276394,
+        "latitude":1.303178277,
+        "longitude":103.9118066
+    },
+    {
+        "town":"MARINE PARADE",
+        "flat_type":"4 ROOM",
+        "town_avg_price":536152.101010101,
+        "price_per_sqft":581.9307322662,
+        "latitude":1.304550236,
+        "longitude":103.9124555
+    },
+    {
+        "town":"MARINE PARADE",
+        "flat_type":"5 ROOM",
+        "town_avg_price":847931.5952340425,
+        "price_per_sqft":646.8116736281,
+        "latitude":1.305102401,
+        "longitude":103.9126648
+    },
+    {
+        "town":"PASIR RIS",
+        "flat_type":"2 ROOM",
+        "town_avg_price":319266.6666666667,
+        "price_per_sqft":625.6515660578,
+        "latitude":1.370210669,
+        "longitude":103.9479865
+    },
+    {
+        "town":"PASIR RIS",
+        "flat_type":"3 ROOM",
+        "town_avg_price":443959.7583333334,
+        "price_per_sqft":617.6265877775,
+        "latitude":1.368994531,
+        "longitude":103.9477101
+    },
+    {
+        "town":"PASIR RIS",
+        "flat_type":"4 ROOM",
+        "town_avg_price":524630.3764044944,
+        "price_per_sqft":481.1923154601,
+        "latitude":1.375784655,
+        "longitude":103.9404302
+    },
+    {
+        "town":"PASIR RIS",
+        "flat_type":"5 ROOM",
+        "town_avg_price":611365.7791164658,
+        "price_per_sqft":458.0250413448,
+        "latitude":1.374995864,
+        "longitude":103.9415106
+    },
+    {
+        "town":"PASIR RIS",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":752319.002002002,
+        "price_per_sqft":474.6393932291,
+        "latitude":1.370525854,
+        "longitude":103.9501901
+    },
+    {
+        "town":"PUNGGOL",
+        "flat_type":"2 ROOM",
+        "town_avg_price":314472.7423312883,
+        "price_per_sqft":643.1164921267,
+        "latitude":1.407437024,
+        "longitude":103.9111965
+    },
+    {
+        "town":"PUNGGOL",
+        "flat_type":"3 ROOM",
+        "town_avg_price":437476.190023753,
+        "price_per_sqft":601.4349613214,
+        "latitude":1.406977629,
+        "longitude":103.9110415
+    },
+    {
+        "town":"PUNGGOL",
+        "flat_type":"4 ROOM",
+        "town_avg_price":550036.295081033,
+        "price_per_sqft":551.6772874474,
+        "latitude":1.405154198,
+        "longitude":103.8978052
+    },
+    {
+        "town":"PUNGGOL",
+        "flat_type":"5 ROOM",
+        "town_avg_price":631918.1538240368,
+        "price_per_sqft":523.5107059668,
+        "latitude":1.39533468,
+        "longitude":103.9114339
+    },
+    {
+        "town":"PUNGGOL",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":666963.3846153846,
+        "price_per_sqft":480.807791226,
+        "latitude":1.39924142,
+        "longitude":103.9100543
+    },
+    {
+        "town":"QUEENSTOWN",
+        "flat_type":"2 ROOM",
+        "town_avg_price":301909.8367346939,
+        "price_per_sqft":604.2478518245,
+        "latitude":1.306191826,
+        "longitude":103.8011938
+    },
+    {
+        "town":"QUEENSTOWN",
+        "flat_type":"3 ROOM",
+        "town_avg_price":426325.5553482587,
+        "price_per_sqft":606.2667690915,
+        "latitude":1.304656989,
+        "longitude":103.7993096
+    },
+    {
+        "town":"QUEENSTOWN",
+        "flat_type":"4 ROOM",
+        "town_avg_price":810991.4736842106,
+        "price_per_sqft":833.360713766,
+        "latitude":1.305689258,
+        "longitude":103.782346
+    },
+    {
+        "town":"QUEENSTOWN",
+        "flat_type":"5 ROOM",
+        "town_avg_price":939022.6110924369,
+        "price_per_sqft":757.3917169714,
+        "latitude":1.292316477,
+        "longitude":103.814606
+    },
+    {
+        "town":"QUEENSTOWN",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":1101806.25,
+        "price_per_sqft":688.9080903156,
+        "latitude":1.294799758,
+        "longitude":103.8046091
+    },
+    {
+        "town":"SEMBAWANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":329310.3913043478,
+        "price_per_sqft":685.1318470207,
+        "latitude":1.450355732,
+        "longitude":103.8266549
+    },
+    {
+        "town":"SEMBAWANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":444074.9498525074,
+        "price_per_sqft":608.3748398009,
+        "latitude":1.450939391,
+        "longitude":103.8270877
+    },
+    {
+        "town":"SEMBAWANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":522760.2345679012,
+        "price_per_sqft":521.8736270202,
+        "latitude":1.450066,
+        "longitude":103.8188909
+    },
+    {
+        "town":"SEMBAWANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":567323.5121107267,
+        "price_per_sqft":467.8107081016,
+        "latitude":1.449228692,
+        "longitude":103.8173757
+    },
+    {
+        "town":"SEMBAWANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":609333.873015873,
+        "price_per_sqft":425.7820969635,
+        "latitude":1.450513313,
+        "longitude":103.8137293
+    },
+    {
+        "town":"SENGKANG",
+        "flat_type":"2 ROOM",
+        "town_avg_price":318253.4336917563,
+        "price_per_sqft":642.348631072,
+        "latitude":1.387862243,
+        "longitude":103.8907051
+    },
+    {
+        "town":"SENGKANG",
+        "flat_type":"3 ROOM",
+        "town_avg_price":427660.9362455726,
+        "price_per_sqft":584.5656886207,
+        "latitude":1.397422227,
+        "longitude":103.8897039
+    },
+    {
+        "town":"SENGKANG",
+        "flat_type":"4 ROOM",
+        "town_avg_price":526455.9092943202,
+        "price_per_sqft":527.8908398587,
+        "latitude":1.397538703,
+        "longitude":103.8890801
+    },
+    {
+        "town":"SENGKANG",
+        "flat_type":"5 ROOM",
+        "town_avg_price":590962.0004667329,
+        "price_per_sqft":486.8894391746,
+        "latitude":1.397769025,
+        "longitude":103.8882359
+    },
+    {
+        "town":"SENGKANG",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":684033.1363636364,
+        "price_per_sqft":480.2519860644,
+        "latitude":1.389544653,
+        "longitude":103.8874435
+    },
+    {
+        "town":"SERANGOON",
+        "flat_type":"2 ROOM",
+        "town_avg_price":263916.6666666667,
+        "price_per_sqft":557.2428265417,
+        "latitude":1.348908689,
+        "longitude":103.8767157
+    },
+    {
+        "town":"SERANGOON",
+        "flat_type":"3 ROOM",
+        "town_avg_price":378953.5346534653,
+        "price_per_sqft":536.5819247085,
+        "latitude":1.350262004,
+        "longitude":103.8764851
+    },
+    {
+        "town":"SERANGOON",
+        "flat_type":"4 ROOM",
+        "town_avg_price":549814.573110893,
+        "price_per_sqft":536.4365710789,
+        "latitude":1.346265987,
+        "longitude":103.8731998
+    },
+    {
+        "town":"SERANGOON",
+        "flat_type":"5 ROOM",
+        "town_avg_price":685744.7601918465,
+        "price_per_sqft":525.4700083,
+        "latitude":1.353623082,
+        "longitude":103.8657166
+    },
+    {
+        "town":"SERANGOON",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":876393.307337278,
+        "price_per_sqft":554.3703657109,
+        "latitude":1.354254191,
+        "longitude":103.868543
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"2 ROOM",
+        "town_avg_price":324750.0,
+        "price_per_sqft":654.5187051048,
+        "latitude":1.357769138,
+        "longitude":103.938392
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"3 ROOM",
+        "town_avg_price":410036.7241035856,
+        "price_per_sqft":539.2297922975,
+        "latitude":1.347313579,
+        "longitude":103.9337674
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"4 ROOM",
+        "town_avg_price":546188.2491770069,
+        "price_per_sqft":518.2179487439,
+        "latitude":1.344801829,
+        "longitude":103.9598616
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"5 ROOM",
+        "town_avg_price":661514.7512912197,
+        "price_per_sqft":508.4189392379,
+        "latitude":1.343565659,
+        "longitude":103.959402
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":799073.0721868365,
+        "price_per_sqft":506.0206266558,
+        "latitude":1.35017819,
+        "longitude":103.9411935
+    },
+    {
+        "town":"TAMPINES",
+        "flat_type":"MULTI-GENERATION",
+        "town_avg_price":810680.5,
+        "price_per_sqft":504.8936813125,
+        "latitude":1.358299105,
+        "longitude":103.9550063
+    },
+    {
+        "town":"TOA PAYOH",
+        "flat_type":"2 ROOM",
+        "town_avg_price":249457.9512195122,
+        "price_per_sqft":539.8199291724,
+        "latitude":1.33913569,
+        "longitude":103.8455629
+    },
+    {
+        "town":"TOA PAYOH",
+        "flat_type":"3 ROOM",
+        "town_avg_price":363290.0886451613,
+        "price_per_sqft":502.4070487288,
+        "latitude":1.330293034,
+        "longitude":103.8591658
+    },
+    {
+        "town":"TOA PAYOH",
+        "flat_type":"4 ROOM",
+        "town_avg_price":698550.3982595649,
+        "price_per_sqft":700.1276983592,
+        "latitude":1.331367167,
+        "longitude":103.8558794
+    },
+    {
+        "town":"TOA PAYOH",
+        "flat_type":"5 ROOM",
+        "town_avg_price":867283.2126436782,
+        "price_per_sqft":677.7132875974,
+        "latitude":1.33500895,
+        "longitude":103.8807063
+    },
+    {
+        "town":"TOA PAYOH",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":937549.6146788991,
+        "price_per_sqft":585.6088144505,
+        "latitude":1.334057601,
+        "longitude":103.8813662
+    },
+    {
+        "town":"WOODLANDS",
+        "flat_type":"2 ROOM",
+        "town_avg_price":308348.8304093567,
+        "price_per_sqft":636.9203261357,
+        "latitude":1.448678907,
+        "longitude":103.8007708
+    },
+    {
+        "town":"WOODLANDS",
+        "flat_type":"3 ROOM",
+        "town_avg_price":359022.7903225807,
+        "price_per_sqft":487.0407670801,
+        "latitude":1.446214087,
+        "longitude":103.7730797
+    },
+    {
+        "town":"WOODLANDS",
+        "flat_type":"4 ROOM",
+        "town_avg_price":468619.7307481663,
+        "price_per_sqft":454.4965957151,
+        "latitude":1.443151211,
+        "longitude":103.7751648
+    },
+    {
+        "town":"WOODLANDS",
+        "flat_type":"5 ROOM",
+        "town_avg_price":555874.5932322877,
+        "price_per_sqft":434.0597197344,
+        "latitude":1.440805674,
+        "longitude":103.7773186
+    },
+    {
+        "town":"WOODLANDS",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":760305.3010526316,
+        "price_per_sqft":454.1145313397,
+        "latitude":1.430395887,
+        "longitude":103.7953168
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"2 ROOM",
+        "town_avg_price":305445.3206751055,
+        "price_per_sqft":628.0769284312,
+        "latitude":1.423226433,
+        "longitude":103.8480493
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"3 ROOM",
+        "town_avg_price":365568.4165995165,
+        "price_per_sqft":494.8055067231,
+        "latitude":1.426926621,
+        "longitude":103.842897
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"4 ROOM",
+        "town_avg_price":466050.1491136415,
+        "price_per_sqft":465.2586949189,
+        "latitude":1.41930729,
+        "longitude":103.8470436
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"5 ROOM",
+        "town_avg_price":594487.5005820722,
+        "price_per_sqft":471.5674962637,
+        "latitude":1.41930729,
+        "longitude":103.8470436
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"EXECUTIVE",
+        "town_avg_price":748808.8357175399,
+        "price_per_sqft":469.9671279426,
+        "latitude":1.42051978,
+        "longitude":103.8335644
+    },
+    {
+        "town":"YISHUN",
+        "flat_type":"MULTI-GENERATION",
+        "town_avg_price":890645.8333333334,
+        "price_per_sqft":494.2072967417,
+        "latitude":1.418657574,
+        "longitude":103.8398421
+    }
+]
