@@ -1,58 +1,27 @@
-# hdbPricePrediction
-
 # HDB Resale Price Prediction
 
-This project provides a prediction model for estimating the resale price of HDB flats in Singapore based on various features such as flat type, storey range, and distances to amenities like MRT stations, CBD, and primary schools. The model is built using a trained Random Forest model and leverages preprocessed data for accurate predictions.
+This project predicts the resale price of HDB flats based on various features such as town, flat type, storey range, floor area, remaining lease, and proximity to amenities like MRT stations and schools.
 
-## Files in the Repository
+## Files in this Repository
 
-- `app.py`: A Streamlit frontend application for users to input features and get resale price predictions.
-- `HDB_JSON_code.py`: Python code to generate the preprocessed JSON file containing necessary features for the model.
-- `preprocessed_data_updated.json`: The preprocessed dataset that is used to extract features for model predictions.
-- `random_forest_best.pkl`: The trained Random Forest model saved in pickle format for making predictions.
-- `hdb_resale_flat_transactions_2020-2025.csv`: Raw dataset used for training the model, containing HDB resale transaction data.
+- **app.py**: The frontend code using Streamlit for building the user interface for HDB resale price prediction.
+- **HDB_JSON_code.py**: The code to generate the preprocessed JSON file from the raw dataset.
+- **preprocessed_data_updated.json**: The preprocessed data used for model prediction.
+- **random_forest_best.pkl**: The trained Random Forest model for predicting HDB resale prices.
 
-## Project Description
+## Dataset and Trained Models
 
-This project involves building a web-based application using **Streamlit** that allows users to input specific characteristics of an HDB flat to predict its resale price using a trained **Random Forest** model. The model predicts the resale price based on factors such as:
+The dataset `hdb_resale_flat_transactions_2020-2025.csv` and the 3 trained models are too large to upload directly to GitHub. You can download them from the following link:
 
-- Flat type (e.g., 1-Room, 2-Room, 3-Room, etc.)
-- Storey range (e.g., 01-03, 04-06, etc.)
-- Floor area in square meters
-- Remaining lease in years
-- Distance to nearest MRT station
-- Distance to CBD (Central Business District)
-- Distance to nearest primary school
+[Download Dataset and Trained Models](https://tinyurl.com/2p9stcy9)
 
-The backend model is trained using a dataset of HDB resale flat transactions from 2020-2025, and the predictions are generated via a Random Forest algorithm.
+After downloading, please place the files in the appropriate directories:
 
-## Setup Instructions
+- `hdb_resale_flat_transactions_2020-2025.csv` should be used for training the models (if needed).
+- `random_forest_best.pkl` should be placed in the working directory for prediction.
 
-### Prerequisites
+## How to Run the Application
 
-Make sure you have the following dependencies installed:
-
-- Python 3.7 or later
-- Streamlit
-- scikit-learn
-- pandas
-- numpy
-- pickle
-- json
-
-### Installing Dependencies
-
-You can install the required dependencies by running:
-
-```bash
-pip install -r requirements.txt
-
-
-
-
-### Dataset and Trained Models
-
-The dataset `hdb_resale_flat_transactions_2020-2025.csv` and 3 trained models are too large to upload directly to GitHub. You can download it from the following link:
-
-[Download](https://tinyurl.com/2p9stcy9)
-
+1. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
